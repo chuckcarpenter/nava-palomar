@@ -2,6 +2,9 @@
 
 This example is written in Typescript and uses TailwindCSS for simplicity. 
 
+<img width="1283" alt="image" src="https://user-images.githubusercontent.com/706378/231256097-a063606f-6791-448a-ab38-7eec83e087c3.png">
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
